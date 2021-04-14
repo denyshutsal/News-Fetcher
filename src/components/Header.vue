@@ -14,13 +14,14 @@
 .site-header {
   display: flex;
   flex-direction: row;
-  justify-content: flex-start;
+  justify-content: center;
   align-items: center;
-  background-color: wheat;
+  padding: 0.5rem;
+  background-color: #cfd8dc;
 
   &__logo {
     width: 32px;
-    margin: 0.5rem;
+    margin-right: 0.5rem;
   }
 
   &__text {
