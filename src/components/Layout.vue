@@ -25,7 +25,7 @@ export default {
   justify-content: center;
   align-items: center;
   width: 100%;
-  max-width: 1500px;
+  max-width: 1536px;
   margin: 0 auto;
   padding: 30px 10px;
 
@@ -34,10 +34,6 @@ export default {
     line-height: 1.4;
     margin-top: 0;
     margin-bottom: 1rem;
-    color: #bdbdbd;
-  }
-
-  &__span {
     text-transform: capitalize;
     color: #546e7a;
   }
