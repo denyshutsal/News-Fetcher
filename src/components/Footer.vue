@@ -4,10 +4,10 @@
       © Copyright NewsFetcher {{ currentYear() }}
       <a
         class="site-footer__link"
-        href="https://i.pinimg.com/originals/dc/45/42/dc4542cb61c32bd20ca933a940f37451.jpg"
+        href="/"
         target="_blank"
         rel="noopener noreferrer"
-        >Heisenberg</a
+        >DH</a
       >
     </p>
   </footer>
@@ -26,10 +26,8 @@ export default {
 </script>
 
 <style lang="scss">
-$mrWhite: #fff;
-
 .site-footer__link {
-  color: $mrWhite;
+  color: black;
   line-height: 2;
   text-decoration: none;
 }
