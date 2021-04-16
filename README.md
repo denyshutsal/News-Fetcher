@@ -1,4 +1,6 @@
-# news-fetcher
+# News-Fetcher
+
+Project link (Hosted on Netlify) (https://news-fetcher-nyt.netlify.app/)
 
 ## Project setup
 ```
