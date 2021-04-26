@@ -1,6 +1,8 @@
 # News-Fetcher
 
-Project link (Hosted on Netlify) (https://news-fetcher-nyt.netlify.app/)
+Project demo (Hosted on Netlify) (https://news-fetcher-nyt.netlify.app/)
+
+## News collector based on vue-cli (Vue3) / axios and New York Times API (https://developer.nytimes.com/get-started)
 
 ## Project setup
 ```
